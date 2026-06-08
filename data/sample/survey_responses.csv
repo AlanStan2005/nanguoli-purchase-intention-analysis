@@ -1,0 +1,4 @@
+respondent_id,quality_score,price_acceptance,brand_awareness,channel_trust,sentiment,purchase_intent
+r001,4.6,3.8,4.2,4.1,0.86,1
+r002,3.1,2.4,2.8,3.0,0.42,0
+r003,4.2,3.6,3.9,4.0,0.76,1
